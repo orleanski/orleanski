@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am learing features of github, polishing my dotfiles, and probably going to use if for my pet projects.
+I am polishing my dotfiles and learing features of github, and probably going to use GH for my pet projects.
 
 leave your comments on the [discussions page](https://github.com/vyvox/vyvox/discussions)
