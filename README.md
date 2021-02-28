@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 I am learing features of github, polishing my dotfiles, and probably going to use if for my pet projects.
 
-leave your comments on the discussion page
+leave your comments on the [discussions page](https://github.com/vyvox/vyvox/discussions)
