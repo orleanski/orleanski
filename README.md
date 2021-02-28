@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Learing features of github, polishing my dotfiles, and probably going to use if for my pet projects.
+I am learing features of github, polishing my dotfiles, and probably going to use if for my pet projects.
 
 leave your comments on the discussion page
