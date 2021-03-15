@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**vyvox/vyvox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**orleanski/orleanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 I am polishing my dotfiles and learing features of github, and probably going to use GH for my pet projects.
 
-leave your comments on the [discussions page](https://github.com/vyvox/vyvox/discussions)
+leave your comments on the [discussions page](https://github.com/orleanski/orleanski/discussions)
